@@ -4,7 +4,7 @@ I am a beginning PhD student at the Faculty of Mechanical Engineering at Brno Un
 
 <br>
 
-<p align="center"> <b> Programming Languages in the Repositories </b> </p>
+<p align="center"> <b> Programming Languages </b> </p>
 
 <p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50wv" height="50hw"/> 
