@@ -4,9 +4,9 @@ I am a beginning PhD student at Brno University of Technology. My main fields of
 
 ## :information_source: Contacts
 
-:mailbox: m.juricek@outlook.com 
+:mailbox: **m.juricek@outlook.com**
 
-:blue_book: <a href="https://www.linkedin.com/in/martin-juricek/">linkedin/martin-juricek/</a>
+:blue_book: **[linkedin/martin-juricek/](https://www.linkedin.com/in/martin-juricek/)**
 
 ---
 
