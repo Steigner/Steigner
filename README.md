@@ -2,6 +2,12 @@
 
 I am a beginning PhD student at Brno University of Technology. My main fields of study are Advanced robotics and Artificial intelligence. The field overlap is then directed to Optimization.
 
+## :information_source: Contacts
+
+:mailbox: m.juricek@outlook.com 
+
+:blue_book: <a href="https://www.linkedin.com/in/martin-juricek/">linkedin/martin-juricek/</a>
+
 ---
 
 <p align="center"> <b> Programming Languages </b> </p>
