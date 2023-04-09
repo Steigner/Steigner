@@ -1,6 +1,6 @@
 # :man: About me
 
-I am a beginning PhD student at Brno University of Technology. My main fields of study are Advanced robotics and Artificial intelligence. The field overlap is then directed to Optimization.
+I'm currently working at Fravebot company, doing advanced robotics for strawberry picking. Also I am a PhD student at Brno University of Technology. My main fields of study are Advanced robotics and Artificial intelligence. The field overlap is then directed to Optimization.
 
 ## :information_source: Contacts
 
