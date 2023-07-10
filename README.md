@@ -4,8 +4,6 @@ I'm currently working at Fravebot company, doing advanced robotics for strawberr
 
 ## :information_source: Contacts
 
-:mailbox: **m.juricek@outlook.com**
-
 :blue_book: **[linkedin/martin-juricek/](https://www.linkedin.com/in/martin-juricek/)**
 
 ---
