@@ -1,6 +1,10 @@
-# :man: About me
+# :information_source: About me
 
-I'm currently working at Fravebot company, doing advanced robotics for strawberry picking. Also I am a PhD student at Brno University of Technology. My main fields of study are Advanced robotics and Artificial intelligence. The field overlap is then directed to Optimization.
+Robotics Enthusiast | AI & Machine Learning | Edge Technologies
+
+I am a passionate robotics professional with a keen interest in cutting-edge technologies. My expertise lies at the intersection of machine vision, machine learning, robotics, and system architecture, making me an part of the advanced robotics revolution.
+
+:large_blue_diamond: Robotics, Machine Learning, Machine Vision
 
 ---
 
