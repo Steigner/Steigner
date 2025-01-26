@@ -2,7 +2,7 @@
 
 Optimization | AI | Edge Technologies | Robotics
 
-Currently, as part of my PhD studies, I focus on optimization and advanced methods in biologically inspired computations. I facing optimization challenges in robotics using neuro-evolution and island-based algorithms. I enjoy setting up clusters, HPC systems, and their software configurations, as well as connecting them through VPN or zero trust technologies. I am also actively engaged in machine vision algorithms, experimenting with modern techniques such as NeRF and Gaussian Splatting. In my free time, I explore IoT technologies, such as mesh networks, and seek innovative ways to utilize them.
+Currently, as part of my PhD studies, I focus on optimization and advanced methods in biologically inspired computations. I am facing optimization challenges in robotics using neuro-evolution and island-based algorithms. I enjoy setting up clusters, HPC systems, and their software configurations, as well as connecting them through VPN or zero trust technologies. I am also actively engaged in machine vision algorithms, experimenting with modern techniques such as NeRF and Gaussian Splatting. In my free time, I explore IoT technologies, such as mesh networks, and seek innovative ways to utilize them.
 
 :large_blue_diamond: Optimization, Machine Learning, Machine Vision, Clusters, HPC, Robotics, IoT
 
