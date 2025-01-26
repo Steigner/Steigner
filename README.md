@@ -1,10 +1,10 @@
 # :information_source: About me
 
-Robotics Enthusiast | AI & Machine Learning | Edge Technologies
+Optimization | AI | Edge Technologies | Robotics
 
-I am a passionate robotics professional with a keen interest in cutting-edge technologies. My expertise lies at the intersection of machine vision, machine learning, robotics, and system architecture, making me an part of the advanced robotics revolution.
+Currently, as part of my PhD studies, I focus on optimization and advanced methods in biologically inspired computations. I facing optimization challenges in robotics using neuro-evolution and island-based algorithms. I enjoy setting up clusters, HPC systems, and their software configurations, as well as connecting them through VPN or zero trust technologies. I am also actively engaged in machine vision algorithms, experimenting with modern techniques such as NeRF and Gaussian Splatting. In my free time, I explore IoT technologies, such as mesh networks, and seek innovative ways to utilize them.
 
-:large_blue_diamond: Robotics, Machine Learning, Machine Vision
+:large_blue_diamond: Optimization, Machine Learning, Machine Vision, Clusters, HPC, Robotics, IoT
 
 ---
 
