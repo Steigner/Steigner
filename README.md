@@ -15,5 +15,9 @@ Currently, as part of my PhD studies, I focus on optimization and advanced metho
 <a href="https://www.mathworks.com/products/matlab.html"><img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="Matlab logo" width="50wv" height="50hw"/></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://cdn.cdnlogo.com/logos/c/27/c.svg" alt="C# logo" width="50wv" height="50hw"/></a>
 <a href="https://learn.microsoft.com/en-us/cpp/?view=msvc-170"><img src="https://cdn.cdnlogo.com/logos/c/76/c.svg" alt="C++ logo" width="50wv" height="50hw"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript logo" width="50wv" height="50hw"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript logo" width="50wv" height="50hw"/>
+<a href="https://www.rust-lang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1024px-Rust_programming_language_black_logo.svg.png" alt="Rust logo" width="50wv" height="50hw" style="filter: invert(1);"/>
+</a>
 </p>
+
+
