@@ -11,7 +11,6 @@ Currently, as part of my PhD studies, I focus on optimization and advanced metho
 <p align="center">
 <a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50wv" height="50hw"/></a>
 <a href="https://www.mathworks.com/products/matlab.html"><img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="Matlab logo" width="50wv" height="50hw"/></a>
-<a href="https://www.rust-lang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1024px-Rust_programming_language_black_logo.svg.png" alt="Rust logo" width="50wv" height="50hw" style="filter: invert(1);"/>
 </a>
 </p>
 
